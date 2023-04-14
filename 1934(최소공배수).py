@@ -13,3 +13,4 @@ def lcm(a, b):
 for i in range(T):
     A, B = map(int, input().split())
     print(lcm(A, B))
+    
